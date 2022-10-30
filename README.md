@@ -1,7 +1,7 @@
 ### Hi there 👋
 # DanaAlhaji
 ###Hi there 👋, I'm Dana Al-haji
-I've Studeied electrical engineering but in face I'm a fullstack developer.
+I've Studeied electrical engineering but in fact I'm a fullstack developer, and really passionte about programing.
 
 
 _Don't hesitate to take a look in my repositeries specially my project for my favirote place Vintage Resturant_
