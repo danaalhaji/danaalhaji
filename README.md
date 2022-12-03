@@ -1,5 +1,8 @@
 ### Hi there 👋
 # DanaAlhaji
+![gif](https://media.giphy.com/media/XYO7OdpYzKyac/giphy.gif?raw=true "Title")
+
+
 ###Hi there 👋, I'm Dana Al-haji
 I've Studeied electrical engineering but in fact I'm a fullstack developer, and really passionte about programing.
 
