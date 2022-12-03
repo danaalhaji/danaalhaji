@@ -14,7 +14,7 @@ Here's the link---->  [Vintage Resturant Website](https://github.com/danaalhaji/
 :computer: My Skills are the Following:
 
 
-:round_pushpin: HTML | CSS | Python | Django | Flask | JAVA | 
+:round_pushpin: HTML | CSS | Python | Django | Flask | JAVA | JavaScript| Node.js | React | Spring Boot |
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaalhaji&show_icons=true&theme=radical)
