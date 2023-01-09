@@ -23,3 +23,5 @@ Here's the link---->  [Vintage Resturant Website](https://github.com/danaalhaji/
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaalhaji&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaalhaji)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=danaalhaji)](https://github.com/ryo-ma/github-profile-trophy)
