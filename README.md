@@ -1,6 +1,6 @@
 ### Hi there 👋
 # DanaAlhaji
-![gif](https://media.giphy.com/media/XYO7OdpYzKyac/giphy.gif?raw=true "Title")
+![gif](https://media0.giphy.com/media/scZPhLqaVOM1qG4lT9/200w.gif?cid=82a1493bfbtzabvkcyogr1oga2stya4u7o033fjgjdf1qbfl&rid=200w.gif&ct=g)
 
 
 ###Hi there 👋, I'm Dana Al-haji
