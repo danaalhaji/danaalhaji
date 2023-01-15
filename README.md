@@ -6,6 +6,8 @@
 ###Hi there 👋, I'm Dana Al-haji
 I've Studeied electrical engineering but in fact I'm a fullstack developer, and really passionte about programing.
 
+One of my favorite project is Axsos point where we used face recogintion library in react:
+Here's the link ----> [Axsos Point](https://github.com/MostafaHQ/MERN-Project)
 
 _Don't hesitate to take a look in my repositeries specially my project for my favirote place Vintage Resturant_
 
